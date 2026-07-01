@@ -1,0 +1,110 @@
+[
+    {
+        "nom": "CHU Yalgado Ouédraogo (CHU-YO)",
+        "type": "Centre Hospitalier Universitaire (CHU)",
+        "ville": "Ouagadougou",
+        "quartier": "Paspanga",
+        "adresse": "Avenue d'Oubritenga, face au parc urbain Bangr Weogo",
+        "tel": "+226 25 31 16 55",
+        "role": "Hôpital national de référence supérieure de 3ème niveau de la pyramide sanitaire. Assure les soins médicaux spécialisés complexes, les interventions de chirurgie majeure, les urgences nationales et l'enseignement clinique universitaire."
+    },
+    {
+        "nom": "CHU de Bogodogo",
+        "type": "Centre Hospitalier Universitaire (CHU)",
+        "ville": "Ouagadougou",
+        "quartier": "Gounghin / Wemtenga (Est)",
+        "adresse": "Secteur 30, Boulevard Tensoba (circulaire)",
+        "tel": "+226 76 89 78 63",
+        "role": "Hôpital universitaire moderne de 3ème niveau spécialisé notamment dans la gynécologie-obstétrique (maternité de référence), la pédiatrie d'urgence, et la médecine générale spécialisée."
+    },
+    {
+        "nom": "CHU de Tengandogo",
+        "type": "Centre Hospitalier Universitaire (CHU)",
+        "ville": "Ouagadougou",
+        "quartier": "Tengandogo (Sud-Ouest)",
+        "adresse": "Sortie Sud de Ouagadougou, route de Léo",
+        "tel": "+226 25 37 88 00",
+        "role": "Hôpital de 3ème niveau (ex-Hôpital National Blaise Compaoré) doté d'équipements de haute technologie pour la cardiologie, l'oncologie, l'imagerie médicale par résonance magnétique (IRM), la traumatologie et la chirurgie spécialisée."
+    },
+    {
+        "nom": "CHU Pédiatrique Charles De Gaulle (CHUP-CDG)",
+        "type": "Centre Hospitalier Universitaire (CHU)",
+        "ville": "Ouagadougou",
+        "quartier": "Zone d'activités diverses (ZAD)",
+        "adresse": "Près de l'avenue de l'Europe, Ouagadougou",
+        "tel": "+226 25 36 67 76",
+        "role": "Établissement pédiatrique universitaire national de référence absolue pour les enfants. Soins spécialisés en pédiatrie médicale, néonatologie et chirurgie pédiatrique."
+    },
+    {
+        "nom": "CHU Souro Sanou (CHUSS)",
+        "type": "Centre Hospitalier Universitaire (CHU)",
+        "ville": "Bobo-Dioulasso",
+        "quartier": "Centre-ville",
+        "adresse": "Avenue du Gouverneur William Ponty, Bobo-Dioulasso",
+        "tel": "+226 20 97 00 11",
+        "role": "Structure hospitalière de référence universitaire majeure de 3ème niveau pour toute la région sanitaire de l'Ouest du Burkina Faso (région des Hauts-Bassins)."
+    },
+    {
+        "nom": "Hôpital Saint-Camille de Ouagadougou (HASC)",
+        "type": "Hôpital Confessionnel conventionné (CHU)",
+        "ville": "Ouagadougou",
+        "quartier": "Secteur 15",
+        "adresse": "Avenue de la Cathédrale, Ouagadougou",
+        "tel": "+226 25 36 03 48",
+        "role": "Structure confessionnelle de soins d'utilité publique associée au service public de santé, offrant des soins spécialisés en obstétrique, pédiatrie, laboratoire de biologie et médecine interne."
+    },
+    {
+        "nom": "Hôpital Paul VI",
+        "type": "Hôpital Confessionnel conventionné (CMA)",
+        "ville": "Ouagadougou",
+        "quartier": "Secteur 22 (Sig-Noghin)",
+        "adresse": "Sortie Nord de Ouagadougou, route de Ouahigouya",
+        "tel": "+226 70 43 83 84",
+        "role": "Établissement sanitaire confessionnel conventionné fonctionnant comme centre de référence (CMA) pour le district sanitaire du Nord (Sig-Noghin), équipé d'un bloc opératoire complet et d'une maternité."
+    },
+    {
+        "nom": "CMA de Pissy",
+        "type": "Centre Médical avec Antenne Chirurgicale (CMA)",
+        "ville": "Ouagadougou",
+        "quartier": "Pissy",
+        "adresse": "Secteur 17, près du rond-point de Pissy",
+        "tel": "+226 25 43 64 08",
+        "role": "Établissement sanitaire public de référence secondaire pour le district de Boulmiougou. Fournit les interventions chirurgicales de base, les césariennes d'urgence, les analyses de laboratoire de district et les soins d'urgence généraux."
+    },
+    {
+        "nom": "CMA Schiphra",
+        "type": "Centre Médical Confessionnel avec Antenne Chirurgicale (CMA)",
+        "ville": "Ouagadougou",
+        "quartier": "Tanghin (Secteur 17)",
+        "adresse": "Près du pont de Tanghin, Tanghin",
+        "tel": "+226 25 33 32 29",
+        "role": "Centre de santé confessionnel conventionné d'utilité publique assurant le rôle de CMA pour le district sanitaire concerné (consultations, chirurgie, césariennes, hospitalisations et vaccination)."
+    },
+    {
+        "nom": "CSPS de Karpala",
+        "type": "Centre de Santé et de Promotion Sociale (CSPS)",
+        "ville": "Ouagadougou",
+        "quartier": "Karpala",
+        "adresse": "Secteur 47, à proximité du grand marché de Karpala",
+        "tel": "+226 25 48 11 22",
+        "role": "Structure publique de premier échelon du district sanitaire de Bogodogo. Assure le paquet minimum d'activités (PMA) : consultations externes pour adultes/enfants, accouchements (maternité de base), vaccinations du PEV, suivi de la croissance et dépistage de la malnutrition."
+    },
+    {
+        "nom": "CSPS de Gounghin",
+        "type": "Centre de Santé et de Promotion Sociale (CSPS)",
+        "ville": "Ouagadougou",
+        "quartier": "Gounghin (Nord)",
+        "adresse": "Secteur 9, à côté de l'école primaire publique",
+        "tel": "+226 25 34 02 01",
+        "role": "Soins curatifs et préventifs primaires, distribution gratuite de moustiquaires MILDA, supplémentation nutritionnelle des nourrissons et traitement du paludisme simple chez l'enfant."
+    },
+    {
+        "nom": "CSPS de Larlé",
+        "type": "Centre de Santé et de Promotion Sociale (CSPS)",
+        "ville": "Ouagadougou",
+        "quartier": "Larlé",
+        "adresse": "Près du marché de Larlé",
+        "tel": "+226 25 33 08 09",
+        "role": "Soins infirmiers primaires, suivi de la grossesse (consultations prénatales), supplémentation en fer et acide folique, et administration de la CPS lors des campagnes saisonnières."
+    }
+]

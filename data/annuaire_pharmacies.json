@@ -1,0 +1,153 @@
+{
+    "Ouagadougou": [
+        {
+            "nom": "Pharmacie Agoro Rood-Woko",
+            "quartier": "Centre-ville (Rood-Woko)",
+            "adresse": "Marché Rood-Woko, face à DIACFA Librairie",
+            "tel": "+226 25 30 88 90",
+            "garde_groupe": "A"
+        },
+        {
+            "nom": "Pharmacie Dapoya",
+            "quartier": "Dapoya",
+            "adresse": "Face immeuble Acimex, Sankar-Yaaré",
+            "tel": "+226 25 31 32 01",
+            "garde_groupe": "A"
+        },
+        {
+            "nom": "Pharmacie de la Patte d'Oie",
+            "quartier": "Patte d'Oie",
+            "adresse": "Près de l'échangeur de la Patte d'Oie, face station Shell",
+            "tel": "+226 25 38 01 02",
+            "garde_groupe": "A"
+        },
+        {
+            "nom": "Pharmacie Sangoulé Lamizana",
+            "quartier": "Centre-ville",
+            "adresse": "Avenue Yennega, à côté de Marina Market",
+            "tel": "+226 25 41 13 00",
+            "garde_groupe": "B"
+        },
+        {
+            "nom": "Pharmacie Cathédrale",
+            "quartier": "Centre-ville",
+            "adresse": "38 Avenue de la Cathédrale, face à la station TOTAL",
+            "tel": "+226 25 31 28 40",
+            "garde_groupe": "B"
+        },
+        {
+            "nom": "Pharmacie Karpala",
+            "quartier": "Karpala",
+            "adresse": "Avenue principale de Karpala, face au marché",
+            "tel": "+226 25 48 30 11",
+            "garde_groupe": "B"
+        },
+        {
+            "nom": "Pharmacie Cité An III",
+            "quartier": "Larlé",
+            "adresse": "En face de la maternité Pogbi",
+            "tel": "+226 25 33 19 66",
+            "garde_groupe": "C"
+        },
+        {
+            "nom": "Pharmacie Yobi",
+            "quartier": "Paspanga",
+            "adresse": "A 200m de la Gendarmerie Nationale",
+            "tel": "+226 25 31 16 30",
+            "garde_groupe": "C"
+        },
+        {
+            "nom": "Pharmacie Dassasgho",
+            "quartier": "Dassasgho",
+            "adresse": "A 100m du musée national, sur l'avenue Babanguida",
+            "tel": "+226 25 36 12 12",
+            "garde_groupe": "C"
+        },
+        {
+            "nom": "Pharmacie Koulouba",
+            "quartier": "Koulouba",
+            "adresse": "A 200m côté Ouest du marché de Boins-Yaaré",
+            "tel": "+226 25 31 19 18",
+            "garde_groupe": "D"
+        },
+        {
+            "nom": "Pharmacie Amaro",
+            "quartier": "Gounghin",
+            "adresse": "Avenue du Kadiogo, Petit Paris",
+            "tel": "+226 25 34 33 28",
+            "garde_groupe": "D"
+        },
+        {
+            "nom": "Pharmacie de l'Aéroport",
+            "quartier": "Cosec / Zone Résidentielle",
+            "adresse": "Avenue de l'Aéroport, face entrée fret",
+            "tel": "+226 25 31 05 06",
+            "garde_groupe": "D"
+        },
+        {
+            "nom": "Pharmacie de la Liberté",
+            "quartier": "Cité An III",
+            "adresse": "Près du rond-point de la Liberté, Ouagadougou",
+            "tel": "+226 25 30 73 34",
+            "garde_groupe": "A"
+        },
+        {
+            "nom": "Pharmacie du Centre",
+            "quartier": "Centre-ville",
+            "adresse": "Avenue de la Nation, face à la BOA",
+            "tel": "+226 25 31 10 93",
+            "garde_groupe": "B"
+        },
+        {
+            "nom": "Pharmacie Song-Taaba",
+            "quartier": "Wemtenga",
+            "adresse": "Boulevard Tensoba, face station Total Wemtenga",
+            "tel": "+226 25 36 31 92",
+            "garde_groupe": "C"
+        }
+    ],
+    "Bobo-Dioulasso": [
+        {
+            "nom": "Pharmacie Sya",
+            "quartier": "Centre-ville",
+            "adresse": "Avenue de la République, face grand marché",
+            "tel": "+226 20 97 12 25",
+            "garde_groupe": "A"
+        },
+        {
+            "nom": "Pharmacie Sarfalao",
+            "quartier": "Sarfalao",
+            "adresse": "Boulevard principal de Sarfalao, face lycée privé",
+            "tel": "+226 20 98 05 06",
+            "garde_groupe": "B"
+        },
+        {
+            "nom": "Pharmacie de la Guimbi",
+            "quartier": "Guimbi",
+            "adresse": "Près du rond-point de la femme, face station Total",
+            "tel": "+226 20 97 32 32",
+            "garde_groupe": "C"
+        },
+        {
+            "nom": "Pharmacie Accart-Ville",
+            "quartier": "Accart-ville",
+            "adresse": "Face au CSPS d'Accart-Ville",
+            "tel": "+226 20 97 18 19",
+            "garde_groupe": "D"
+        },
+        {
+            "nom": "Pharmacie de l'Amitié",
+            "quartier": "Zone Commerciale",
+            "adresse": "Avenue Blaise Compaoré, Bobo-Dioulasso",
+            "tel": "+226 20 97 11 02",
+            "garde_groupe": "A"
+        },
+        {
+            "nom": "Pharmacie Houet",
+            "quartier": "Centre-ville",
+            "adresse": "Près de la place de la Nation, Bobo",
+            "tel": "+226 20 97 22 45",
+            "garde_groupe": "B"
+        }
+    ]
+}
