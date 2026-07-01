@@ -186,7 +186,7 @@ with tab_chat:
         with st.chat_message(msg["role"]):
             st.markdown(msg["content"])
             if msg["role"] == "assistant" and "sources" in msg and msg["sources"]:
-                with st.expander("🔍 Voir les sources documentaires de l'INSD"):
+                with st.expander("🔍 Voir les sources documentaires (INSD, Santé.gov.bf, OMS)"):
                     for idx, src in enumerate(msg["sources"]):
                         st.markdown(f"**Source {idx+1} :** `{src['file']}`")
                         st.caption(f"*Extrait :* {src['content']}")
@@ -201,7 +201,7 @@ with tab_chat:
         current_key = api_key if provider in ["gemini", "groq"] else None
         
         with st.chat_message("assistant"):
-            with st.spinner("Recherche dans la base de connaissances de l'INSD et réponse en cours..."):
+            with st.spinner("Recherche dans les bases de connaissances (INSD, Santé.gov.bf, OMS) et réponse en cours..."):
                 response_data = rag_engine.query(user_query, provider=provider, api_key=current_key)
                 answer = response_data["answer"]
                 sources = response_data["sources"]
@@ -209,7 +209,7 @@ with tab_chat:
                 st.markdown(answer)
                 
                 if sources:
-                    with st.expander("🔍 Voir les sources documentaires de l'INSD"):
+                    with st.expander("🔍 Voir les sources documentaires (INSD, Santé.gov.bf, OMS)"):
                         for idx, src in enumerate(sources):
                             st.markdown(f"**Source {idx+1} :** `{src['file']}`")
                             st.caption(f"*Extrait :* {src['content']}")

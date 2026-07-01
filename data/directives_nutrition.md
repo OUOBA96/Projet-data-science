@@ -1,10 +1,13 @@
 # Nutrition et Bonnes Pratiques Alimentaires au Burkina Faso
 *Source des données : Secrétariat technique chargé de la multisectorialité pour la nutrition (ST/Nut) & Direction de la Nutrition - Ministère de la Santé du Burkina Faso*
 
-## 1. Défis de la transition nutritionnelle et malnutrition
-Le Burkina Faso est confronté à la persistance de la malnutrition sous toutes ses formes (retard de croissance ou malnutrition chronique, émaciation ou malnutrition aiguë, et carences en micronutriments), ainsi qu'à l'émergence du surpoids et de l'obésité en milieu urbain.
-*   **Malnutrition Chronique (Retard de croissance) :** Touche près d'un enfant de moins de 5 ans sur cinq. Elle a des conséquences permanentes sur le développement physique et les facultés cognitives.
-*   **Malnutrition Aiguë (Émaciation) :** Les taux dépassent parfois les seuils d'alerte (10 à 15 %) dans les régions soumises à l'insécurité alimentaire ou aux déplacements de populations (Est, Sahel, Nord, Centre-Nord), affectant l'accès aux terres agricoles et aux marchés.
+## 1. Défis de la transition nutritionnelle et malnutrition (Données et Standards OMS)
+Le Burkina Faso fait face au **double fardeau de la malnutrition** : la persistance historique des carences et de la sous-alimentation coexiste désormais avec une hausse du surpoids, de l'obésité et des maladies chroniques non transmissibles (diabète, hypertension) en milieu urbain.
+
+*   **Malnutrition Chronique (Retard de croissance) :** Elle touche environ 19 % à 25 % des enfants de moins de 5 ans (selon les dernières enquêtes de l'OMS et de l'UNICEF, marquant une baisse par rapport aux 35 % enregistrés en 2009). Ce retard a des répercussions irréversibles sur le développement cérébral et physique des enfants.
+*   **Malnutrition Aiguë (Émaciation) :** Les taux de malnutrition aiguë globale restent préoccupants et franchissent fréquemment le seuil d'alerte critique de l'OMS (10 % à 15 %) dans les provinces touchées par l'insécurité civile et les déplacements forcés (Sahel, Est, Nord, Centre-Nord), ce qui restreint l'accès aux terres agricoles et entraîne la fermeture de formations sanitaires périphériques.
+*   **Carences en micronutriments :** L'anémie (carence en fer) reste un défi majeur de santé publique, affectant une proportion élevée de femmes en âge de procréer et d'enfants de moins de 5 ans.
+*   **Politique Nationale de Riposte :** Le pays a adopté la *Politique nationale multisectorielle de nutrition (2020-2029)* soutenue par l'OMS et l'UNICEF, pour coordonner la nutrition entre les secteurs de la santé, de l'agriculture, de l'éducation et de l'eau potable.
 
 ## 2. Bonnes pratiques de Nutrition Maternelle, du Nourrisson et du Jeune Enfant (NM-ANJE)
 La Direction de la Nutrition formule les recommandations prioritaires suivantes :

@@ -24,3 +24,12 @@ Le vecteur de la dengue (*Aedes*) se distingue de l'anophèle (vecteur du paludi
     *   En cas de suspicion de dengue, **l'utilisation d'acide acétylsalicylique (Aspirine), d'Ibuprofène ou de tout autre Anti-Inflammatoire Non Stéroïdien (AINS) est STRICTEMENT INTERDITE**. Ces molécules fluidifient le sang et majorent dramatiquement le risque d'hémorragies mortelles.
     *   Le seul traitement symptomatique autorisé de première intention est le **Paracétamol** pour soulager la douleur et faire baisser la fièvre (respecter la posologie maximale de 3g par jour chez l'adulte et les doses pédiatriques appropriées).
     *   Consulter d'urgence le centre de santé (CSPS ou CMA) le plus proche pour une évaluation clinique.
+
+## 4. Données Épidémiologiques et Recommandations OMS (Épidémie de 2023-2024)
+*   **Épidémie de 2023-2024 :** Le Burkina Faso a fait face, à partir de septembre 2023 et sur l'ensemble de l'année 2024, à une épidémie de dengue d'une ampleur historique, devenant le pays le plus touché de la région africaine.
+*   **Sérotypes en circulation :** Les analyses de surveillance de l'OMS ont confirmé la co-circulation des sérotypes **DENV-1** et **DENV-3** sur le territoire national.
+*   **Épicentres de l'épidémie :** Les plus grands foyers de contamination se situent en milieu urbain, particulièrement dans les régions de Ouagadougou (Centre) et de Bobo-Dioulasso (Hauts-Bassins).
+*   **Recommandations d'intervention de l'OMS :**
+    1.  *Surveillance clinique renforcée* : Former les prestataires de santé aux diagnostics différentiels (dengue vs paludisme) en raison de la similitude des symptômes initiaux.
+    2.  *Lutte antivectorielle communautaire* : Sensibiliser à la destruction systématique des gîtes larvaires domestiques chaque semaine (coupelles d'eau, pneus usagés, récipients de stockage d'eau).
+    3.  *Lutte contre l'infodémie* : Mettre en œuvre des programmes de communication de crise pour contrecarrer les fausses informations sur les réseaux sociaux concernant l'épidémie et les moustiques.
