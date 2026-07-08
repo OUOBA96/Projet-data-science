@@ -54,8 +54,8 @@ class RAGEngine:
         return False
 
     def _call_gemini_api(self, prompt, api_key):
-        """Appelle l'API Gemini 1.5 Flash directement via HTTP."""
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+        """Appelle l'API Gemini directement via HTTP."""
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
         headers = {"Content-Type": "application/json"}
         payload = {
             "contents": [{
