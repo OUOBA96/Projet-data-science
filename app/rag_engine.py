@@ -76,14 +76,14 @@ class RAGEngine:
             return f"Erreur de connexion à l'API Gemini : {e}"
 
     def _call_groq_api(self, prompt, api_key):
-        """Appelle l'API Groq (Llama 3) directement via HTTP."""
+        """Appelle l'API Groq (Llama 3.1) directement via HTTP."""
         url = "https://api.groq.com/openai/v1/chat/completions"
         headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json"
         }
         payload = {
-            "model": "llama3-8b-8192",
+            "model": "llama-3.1-8b-instant",
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.2
         }
