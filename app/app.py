@@ -219,6 +219,7 @@ with tab_chat:
             "content": answer,
             "sources": sources
         })
+        st.rerun()
 
 # ================= TAB 2 : ANNUAIRE ET PHARMACIES =================
 with tab_directory:
